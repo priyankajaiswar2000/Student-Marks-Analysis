@@ -1,0 +1,26 @@
+StudentID,Name,Gender,Class_Section,Math,Science,English,History,ComputerScience,AttendancePercentage,TotalMarks,Percentage,Grade,Status,Rank
+STU001,Aarav Sharma,Male,10-A,88,92,79,85,95,94,439,87.8,A,Pass,8
+STU002,Ananya Iyer,Female,10-A,95,98,92,89,99,98,473,94.6,A+,Pass,2
+STU003,Rohan Patel,Male,10-B,62,58,74,65,70,82,329,65.8,C,Pass,20
+STU004,Priya Nair,Female,10-A,78,84,88,80,91,91,421,84.2,A,Pass,11
+STU005,Vikram Singh,Male,10-B,45,52,60,55,68,75,280,56.00000000000001,D,Pass,24
+STU006,Sneha Gupta,Female,10-A,91,89,94,90,96,96,460,92.0,A+,Pass,5
+STU007,Aditya Verma,Male,10-B,70,68,75,72,80,88,365,73.0,B,Pass,17
+STU008,Diya Rao,Female,10-B,85,82,89,86,88,93,430,86.0,A,Pass,10
+STU009,Kabir Khan,Male,10-A,94,90,85,88,92,95,449,89.8,A,Pass,7
+STU010,Meera Joshi,Female,10-B,58,64,70,62,65,80,319,63.800000000000004,C,Pass,21
+STU011,Rahul Menon,Male,10-A,82,79,80,84,87,89,412,82.39999999999999,A,Pass,12
+STU012,Tanvi Deshmukh,Female,10-A,99,96,95,94,100,99,484,96.8,A+,Pass,1
+STU013,Karan Malhotra,Male,10-B,53,49,65,58,60,72,285,56.99999999999999,D,Pass,23
+STU014,Ishita Sen,Female,10-B,76,80,82,78,85,89,401,80.2,A,Pass,14
+STU015,Arjun Das,Male,10-A,89,85,88,86,90,92,438,87.6,A,Pass,9
+STU016,Pooja Hegde,Female,10-B,68,72,79,70,75,85,364,72.8,B,Pass,18
+STU017,Siddharth Roy,Male,10-A,92,94,89,91,95,97,461,92.2,A+,Pass,4
+STU018,Neha Kulkarni,Female,10-B,81,77,85,80,84,90,407,81.39999999999999,A,Pass,13
+STU019,Varun Reddy,Male,10-B,38,42,55,48,50,68,233,46.6,F (Fail),Fail,25
+STU020,Riya Kapoor,Female,10-A,87,91,93,89,94,95,454,90.8,A+,Pass,6
+STU021,Devansh Bhatt,Male,10-A,75,78,80,77,82,87,392,78.4,B,Pass,15
+STU022,Anika Chawla,Female,10-B,65,60,72,68,74,83,339,67.80000000000001,C,Pass,19
+STU023,Ayush Saxena,Male,10-B,49,55,62,59,65,76,290,57.99999999999999,D,Pass,22
+STU024,Shruti Pillai,Female,10-A,93,95,91,92,98,96,469,93.8,A+,Pass,3
+STU025,Manish Tiwari,Male,10-B,72,70,76,74,78,86,370,74.0,B,Pass,16
